@@ -79,9 +79,3 @@ You can easily:
 ## 📄 License
 
 MIT License. Free to use and modify.
-
----
-
-Let me know if you’d like a downloadable `.zip` version, deployment help, or instructions to make it work with backend frameworks like Django or Flask.
-
-```
