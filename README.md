@@ -1,9 +1,11 @@
-
+```markdown
 # Select2-like Dropdown with Search
 
 A lightweight, Bootstrap-styled custom dropdown component inspired by [Select2](https://select2.org/), featuring live search, keyboard navigation, and a user-friendly UI—all in pure HTML, CSS, and JavaScript (no jQuery dependency).
 
 ## 🚀 Demo
+
+👉 [Live Demo](https://ronakmer.github.io/select2-boostrep/)
 
 The dropdown allows you to:
 
@@ -15,8 +17,10 @@ The dropdown allows you to:
 ## 📁 File Structure
 
 ```
+
 ├── index.html  ← Main HTML file with integrated styles and script
-```
+
+````
 
 ## 🧩 Features
 
@@ -36,7 +40,7 @@ In the `<head>`:
 
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-```
+````
 
 At the bottom of the `<body>`:
 
@@ -79,3 +83,5 @@ MIT License. Free to use and modify.
 ---
 
 Let me know if you’d like a downloadable `.zip` version, deployment help, or instructions to make it work with backend frameworks like Django or Flask.
+
+```
